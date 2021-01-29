@@ -1,0 +1,11 @@
+{
+  "name": "websocket_client_server",
+  "version": "0.0.1",
+  "description": "Apa itu WebSocket?",
+  "author": "xeceryn",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "ws": "^7.4.2"
+  }
+}

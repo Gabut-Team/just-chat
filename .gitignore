@@ -1,0 +1,6 @@
+#Lib
+node_modules
+#Package Local
+package-lock.json
+#JB Khusus
+.idea
